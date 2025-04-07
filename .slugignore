@@ -1,0 +1,4 @@
+*.md 
+*.txt 
+tests/ 
+__pycache__/ 

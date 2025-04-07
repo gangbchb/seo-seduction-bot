@@ -1,0 +1,13 @@
+# Игнорируем чувствительные файлы и временные данные
+seo_seduction_session.session
+seo_bot.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env.txt
+LibreTranslate/
+Git Code.txt
